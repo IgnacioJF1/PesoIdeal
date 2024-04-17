@@ -1,0 +1,1 @@
+Estimados les comparto un codigo escrito en HTML y JavasCript que calcula tu peso ideal segun tu altura y sexo. En el codigo del HTML realice un formulario para completar lops datos y en Javascript calcula lo rellenado segun formula medica. Y arroja el resultado en Kg segun la altura.
